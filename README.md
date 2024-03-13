@@ -1,0 +1,1 @@
+This is one of the two shortlisted projects for the AyoGorkhali campaign.
