@@ -7,3 +7,5 @@ The other project is a quick-win...this is it.
 <!-- TO-DO add to do panel in vs code in .settings -->
 <!-- TO-DO reference below  -->
 [Reference](https://medium.com/@EclecticCoder/manage-todo-list-in-vscode-beb53774d776)
+
+Making another change in readme to see if it will be staged change as well . 
